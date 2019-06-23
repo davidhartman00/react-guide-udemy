@@ -40,7 +40,6 @@ class Person extends Component{
         />
       </Aux>
     );
-
   }
 }
 
